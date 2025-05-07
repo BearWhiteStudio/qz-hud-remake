@@ -1,1 +1,1 @@
-Original Script By : gh repo clone miquelmq20/qz-hud
+Original Script By : [miquelmq20](https://github.com/miquelmq20/qz-hud.git)
